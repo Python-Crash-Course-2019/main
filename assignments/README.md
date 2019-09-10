@@ -1,1 +1,1 @@
-# Assignments for the Python Crash Course
+# Assignments and homework for the Python Crash Course
